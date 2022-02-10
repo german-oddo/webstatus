@@ -3,9 +3,11 @@ owner: germanoddo # Your GitHub organization or username, where this repository 
 repo: webstatus # The name of this repository
 
 sites:
-  - name: Prex-UY
+  - name: Prex-Uruguay
     url: https://www.prexcard.com
-  - name: Prex-ARG
+  - name: Prex-Argentina
+    url: https://www.prexcard.com.ar
+  - name: Prex-Perú
     url: https://www.prexcard.com.ar
 
 
@@ -16,7 +18,7 @@ status-website:
   #demo.upptime.js.org
   #baseUrl: /webstatus
   logoUrl: https://prexcard.s3.us-east-1.amazonaws.com/web/newassets/prexnew.png
-  name: WebStatus
+  #name: WebStatus
   introTitle: "**WebStatus - Prex**"
   introMessage: Información actualizada sobre la disponibilidad de los servicios de Prex. Vuelve aquí en cualquier momento para obtener información sobre el estado actual.
   navbar:
