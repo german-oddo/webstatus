@@ -17,7 +17,7 @@ status-website:
   #baseUrl: /webstatus
   logoUrl: https://prexcard.s3.us-east-1.amazonaws.com/web/newassets/prexnew.png
   name: WebStatus
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**WebStatus - Prex**"
   introMessage: Información actualizada sobre la disponibilidad de lo servicios. Vuelve aquí en cualquier momento para obtener información sobre el estado actual.
   navbar:
     - title: Status
