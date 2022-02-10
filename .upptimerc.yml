@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://prexcard.s3.us-east-1.amazonaws.com/web/newassets/prexnew.png
   name: WebStatus
   introTitle: "**WebStatus - Prex**"
-  introMessage: Información actualizada sobre la disponibilidad de lo servicios. Vuelve aquí en cualquier momento para obtener información sobre el estado actual.
+  introMessage: Información actualizada sobre la disponibilidad de los servicios de Prex. Vuelve aquí en cualquier momento para obtener información sobre el estado actual.
   navbar:
     - title: Status
       href: /
