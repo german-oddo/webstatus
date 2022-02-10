@@ -3,12 +3,13 @@ owner: germanoddo # Your GitHub organization or username, where this repository 
 repo: webstatus # The name of this repository
 
 sites:
-  - name: Prex-Uruguay
-    url: https://www.prexcard.com
   - name: Prex-Argentina
     url: https://www.prexcard.com.ar
+    icon: https://www.prexcard.com.ar/favicon.ico
   - name: Prex-Perú
     url: https://www.prexcard.com.ar
+  - name: Prex-Uruguay
+    url: https://www.prexcard.com
 
 
 status-website:
