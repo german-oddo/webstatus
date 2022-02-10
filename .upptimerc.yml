@@ -7,12 +7,16 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: Prex-UY
+    url: https://www.prexcard.com
+  - name: Prex-ARG
+    url: https://www.prexcard.com.ar
 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  #cname: demo.upptime.js.org
   baseUrl: /webstatus
   #logoUrl: 
   name: Upptime
