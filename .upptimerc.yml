@@ -5,7 +5,7 @@ repo: webstatus # The name of this repository
 sites:
   - name: Prex-Argentina
     url: https://www.prexcard.com.ar
-    icon: https://www.prexcard.com.ar/favicon.ico
+    icon: https://www.prexcard.com.ar/assets/img/2020/favicon/favicon-32.png
   - name: Prex-Perú
     url: https://www.prexcard.com.ar
   - name: Prex-Uruguay
