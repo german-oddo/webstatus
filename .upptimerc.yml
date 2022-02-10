@@ -18,8 +18,8 @@ status-website:
   #demo.upptime.js.org
   #baseUrl: /webstatus
   logoUrl: https://prexcard.s3.us-east-1.amazonaws.com/web/newassets/prexnew.png
-  #name: WebStatus
-  introTitle: "**WebStatus - Prex**"
+  name: WebStatus
+  #introTitle: "**WebStatus - Prex**"
   introMessage: Información actualizada sobre la disponibilidad de los servicios de Prex. Vuelve aquí en cualquier momento para obtener información sobre el estado actual.
   navbar:
     - title: Status
