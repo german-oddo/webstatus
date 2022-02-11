@@ -29,6 +29,8 @@ sites:
     icon: https://www.banderas-mundo.es/data/flags/h80/uy.png
     #icon: https://de2aqb3kqoyo2.cloudfront.net/public/includes/assets/favicon.ico
 
+assignees:
+    - prexcard
 
 
 status-website:
