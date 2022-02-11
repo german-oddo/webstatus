@@ -6,12 +6,16 @@ sites:
   - name: Prex-Argentina
     url: https://www.prexcard.com.ar
     icon: https://www.prexcard.com.ar/assets/img/2020/favicon/favicon-32.png
+  - name: Prex-Chile
+    url: https://prexcard.cl/
+    icon: https://pub-app-s3-prexpe.s3.sa-east-1.amazonaws.com/web_assets/img/favicon/favicon-32.png
   - name: Prex-Perú
     url: https://www.prex.com.pe
     icon: https://pub-app-s3-prexpe.s3.sa-east-1.amazonaws.com/web_assets/img/favicon/favicon-32.png
   - name: Prex-Uruguay
     url: https://www.prexcard.com
     icon: https://de2aqb3kqoyo2.cloudfront.net/public/includes/assets/favicon.ico
+
 
 
 status-website:
