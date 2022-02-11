@@ -10,7 +10,7 @@ sites:
   - name: Prex-Chile
     url: https://prexcard.cl/
     icon: https://www.banderas-mundo.es/data/flags/h80/cl.png
-    icon: https://pub-app-s3-prexpe.s3.sa-east-1.amazonaws.com/web_assets/img/favicon/favicon-32.png
+    #icon: https://pub-app-s3-prexpe.s3.sa-east-1.amazonaws.com/web_assets/img/favicon/favicon-32.png
   - name: Prex-Perú
     url: https://www.prex.com.pe
     icon: https://www.banderas-mundo.es/data/flags/h80/pe.png
