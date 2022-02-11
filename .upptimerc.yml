@@ -6,6 +6,9 @@ sites:
   - name: Prex-Argentina
     url: https://www.prexcard.com.ar
     icon: https://www.banderas-mundo.es/data/flags/h80/ar.png
+  - name: API Prex-Argentina
+    url: https://api.prexcard.com.ar/
+    icon: https://www.banderas-mundo.es/data/flags/h80/ar.png
     #icon: https://www.prexcard.com.ar/assets/img/2020/favicon/favicon-32.png
   - name: Prex-Chile
     url: https://prexcard.cl/
