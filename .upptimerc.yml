@@ -17,9 +17,15 @@ sites:
   - name: Prex-Perú
     url: https://www.prex.com.pe
     icon: https://www.banderas-mundo.es/data/flags/h80/pe.png
+  - name: API Prex-Perú
+    url: https://api.prex.com.pe/
+    icon: https://www.banderas-mundo.es/data/flags/h80/pe.png
     #icon: https://pub-app-s3-prexpe.s3.sa-east-1.amazonaws.com/web_assets/img/favicon/favicon-32.png
   - name: Prex-Uruguay
     url: https://www.prexcard.com
+    icon: https://www.banderas-mundo.es/data/flags/h80/uy.png
+  - name: API Prex-Uruguay
+    url: https://www.prexcard.com/api/
     icon: https://www.banderas-mundo.es/data/flags/h80/uy.png
     #icon: https://de2aqb3kqoyo2.cloudfront.net/public/includes/assets/favicon.ico
 
