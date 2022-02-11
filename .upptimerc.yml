@@ -14,7 +14,8 @@ sites:
     icon: https://pub-app-s3-prexpe.s3.sa-east-1.amazonaws.com/web_assets/img/favicon/favicon-32.png
   - name: Prex-Uruguay
     url: https://www.prexcard.com
-    icon: https://de2aqb3kqoyo2.cloudfront.net/public/includes/assets/favicon.ico
+    icon: https://www.banderas-mundo.es/data/flags/h80/uy.png
+    #icon: https://de2aqb3kqoyo2.cloudfront.net/public/includes/assets/favicon.ico
 
 
 
