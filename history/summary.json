@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-21": 43,
+      "2022-06-21": 394,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1440,
@@ -190,36 +190,40 @@
     "url": "https://www.prex.com.pe",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/pe.png",
     "slug": "prex-peru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 644,
-    "timeWeek": 641,
-    "timeMonth": 628,
-    "timeYear": 638,
-    "dailyMinutesDown": {}
+    "time": 693,
+    "timeDay": 4918,
+    "timeWeek": 1496,
+    "timeMonth": 880,
+    "timeYear": 693,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "API Prex-Perú",
     "url": "https://api.prex.com.pe/",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/pe.png",
     "slug": "api-prex-peru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 564,
-    "timeWeek": 495,
-    "timeMonth": 605,
-    "timeYear": 614,
-    "dailyMinutesDown": {}
+    "time": 611,
+    "timeDay": 386,
+    "timeWeek": 467,
+    "timeMonth": 594,
+    "timeYear": 611,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Prex-Uruguay",
