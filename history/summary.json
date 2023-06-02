@@ -67,7 +67,7 @@
     "timeMonth": 0,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-06-02": 44,
+      "2023-06-02": 750,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -447,7 +447,7 @@
     "uptimeYear": "99.97%",
     "time": 627,
     "timeDay": 987,
-    "timeWeek": 968,
+    "timeWeek": 991,
     "timeMonth": 1146,
     "timeYear": 623,
     "dailyMinutesDown": {
@@ -463,9 +463,9 @@
     "url": "https://api.prex.com.pe/",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/pe.png",
     "slug": "api-prex-peru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -475,6 +475,7 @@
     "timeMonth": 574,
     "timeYear": 680,
     "dailyMinutesDown": {
+      "2023-06-02": 0,
       "2023-03-07": 31,
       "2022-07-01": 23,
       "2022-06-30": 23,
