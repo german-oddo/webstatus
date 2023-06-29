@@ -10,17 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 338,
-    "timeDay": 355,
-    "timeWeek": 258,
-    "timeMonth": 265,
+    "time": 336,
+    "timeDay": 365,
+    "timeWeek": 265,
+    "timeMonth": 269,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2022-12-05": 34,
       "2022-11-07": 28,
       "2022-07-01": 23,
-      "2022-06-30": 23,
-      "2022-06-29": 52
+      "2022-06-30": 23
     }
   },
   {
@@ -35,17 +34,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 346,
-    "timeDay": 354,
-    "timeWeek": 312,
-    "timeMonth": 283,
+    "timeDay": 370,
+    "timeWeek": 339,
+    "timeMonth": 288,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2023-03-06": 46,
       "2023-02-06": 18,
       "2022-07-28": 29,
       "2022-07-01": 23,
-      "2022-06-30": 23,
-      "2022-06-29": 52
+      "2022-06-30": 23
     }
   },
   {
@@ -54,16 +52,16 @@
     "icon": "https://www.banderas-mundo.es/data/flags/h80/cl.png",
     "slug": "prex-chile",
     "status": "up",
-    "uptime": "3.05%",
+    "uptime": "3.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "48.45%",
-    "uptimeYear": "4.20%",
-    "time": 552,
-    "timeDay": 314,
-    "timeWeek": 436,
-    "timeMonth": 561,
-    "timeYear": 552,
+    "uptimeMonth": "51.73%",
+    "uptimeYear": "4.47%",
+    "time": 547,
+    "timeDay": 449,
+    "timeWeek": 355,
+    "timeMonth": 555,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2023-06-12": 1031,
       "2023-06-11": 1440,
@@ -412,8 +410,7 @@
       "2022-07-03": 1440,
       "2022-07-02": 1440,
       "2022-07-01": 1440,
-      "2022-06-30": 1440,
-      "2022-06-29": 1440
+      "2022-06-30": 1440
     }
   },
   {
@@ -427,17 +424,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
-    "time": 643,
-    "timeDay": 751,
-    "timeWeek": 784,
-    "timeMonth": 942,
+    "time": 644,
+    "timeDay": 1299,
+    "timeWeek": 849,
+    "timeMonth": 962,
     "timeYear": 630,
     "dailyMinutesDown": {
       "2023-06-12": 42,
       "2023-03-07": 31,
       "2022-07-01": 23,
-      "2022-06-30": 23,
-      "2022-06-29": 52
+      "2022-06-30": 23
     }
   },
   {
@@ -451,17 +447,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 666,
-    "timeDay": 472,
-    "timeWeek": 416,
-    "timeMonth": 484,
+    "time": 667,
+    "timeDay": 965,
+    "timeWeek": 497,
+    "timeMonth": 504,
     "timeYear": 676,
     "dailyMinutesDown": {
       "2023-06-02": 27,
       "2023-03-07": 31,
       "2022-07-01": 23,
-      "2022-06-30": 23,
-      "2022-06-29": 52
+      "2022-06-30": 23
     }
   },
   {
@@ -476,14 +471,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 242,
-    "timeDay": 238,
-    "timeWeek": 222,
-    "timeMonth": 255,
-    "timeYear": 246,
+    "timeDay": 161,
+    "timeWeek": 212,
+    "timeMonth": 254,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2022-07-01": 23,
-      "2022-06-30": 23,
-      "2022-06-29": 52
+      "2022-06-30": 23
     }
   },
   {
@@ -498,15 +492,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 150,
-    "timeDay": 141,
-    "timeWeek": 144,
-    "timeMonth": 141,
-    "timeYear": 156,
+    "timeDay": 122,
+    "timeWeek": 142,
+    "timeMonth": 134,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2022-08-12": 25,
       "2022-07-01": 22,
-      "2022-06-30": 23,
-      "2022-06-29": 52
+      "2022-06-30": 23
     }
   }
 ]
