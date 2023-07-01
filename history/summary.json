@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 337,
-    "timeDay": 361,
-    "timeWeek": 281,
-    "timeMonth": 275,
+    "timeDay": 370,
+    "timeWeek": 302,
+    "timeMonth": 286,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2022-12-05": 34,
-      "2022-11-07": 28,
-      "2022-07-01": 23
+      "2022-11-07": 28
     }
   },
   {
@@ -31,17 +30,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 355,
-    "timeDay": 379,
-    "timeWeek": 377,
+    "timeDay": 365,
+    "timeWeek": 412,
     "timeMonth": 291,
-    "timeYear": 380,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2023-03-06": 46,
       "2023-02-06": 18,
-      "2022-07-28": 29,
-      "2022-07-01": 23
+      "2022-07-28": 29
     }
   },
   {
@@ -50,16 +48,16 @@
     "icon": "https://www.banderas-mundo.es/data/flags/h80/cl.png",
     "slug": "prex-chile",
     "status": "up",
-    "uptime": "3.44%",
+    "uptime": "3.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.01%",
-    "uptimeYear": "4.75%",
-    "time": 540,
-    "timeDay": 397,
-    "timeWeek": 368,
-    "timeMonth": 548,
-    "timeYear": 540,
+    "uptimeMonth": "61.61%",
+    "uptimeYear": "5.02%",
+    "time": 536,
+    "timeDay": 447,
+    "timeWeek": 386,
+    "timeMonth": 543,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2023-06-12": 1031,
       "2023-06-11": 1440,
@@ -406,8 +404,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -421,15 +418,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 644,
-    "timeDay": 748,
-    "timeWeek": 878,
-    "timeMonth": 963,
-    "timeYear": 634,
+    "time": 645,
+    "timeDay": 983,
+    "timeWeek": 941,
+    "timeMonth": 940,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2023-06-12": 42,
-      "2023-03-07": 31,
-      "2022-07-01": 23
+      "2023-03-07": 31
     }
   },
   {
@@ -444,14 +440,13 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 667,
-    "timeDay": 422,
-    "timeWeek": 515,
-    "timeMonth": 507,
-    "timeYear": 682,
+    "timeDay": 512,
+    "timeWeek": 494,
+    "timeMonth": 475,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2023-06-02": 27,
-      "2023-03-07": 31,
-      "2022-07-01": 23
+      "2023-03-07": 31
     }
   },
   {
@@ -464,15 +459,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 241,
-    "timeWeek": 219,
-    "timeMonth": 254,
-    "timeYear": 247,
-    "dailyMinutesDown": {
-      "2022-07-01": 23
-    }
+    "timeDay": 204,
+    "timeWeek": 217,
+    "timeMonth": 255,
+    "timeYear": 248,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Prex-Uruguay",
@@ -486,13 +479,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 150,
-    "timeDay": 135,
-    "timeWeek": 138,
+    "timeDay": 127,
+    "timeWeek": 135,
     "timeMonth": 134,
-    "timeYear": 157,
+    "timeYear": 158,
     "dailyMinutesDown": {
-      "2022-08-12": 25,
-      "2022-07-01": 22
+      "2022-08-12": 25
     }
   }
 ]
