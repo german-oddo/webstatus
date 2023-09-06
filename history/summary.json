@@ -386,19 +386,19 @@
     "url": "https://www.prexcard.com",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/uy.png",
     "slug": "prex-uruguay",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 169,
-    "timeWeek": 230,
-    "timeMonth": 256,
+    "timeDay": 160,
+    "timeWeek": 220,
+    "timeMonth": 252,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-09-06": 2
+      "2023-09-06": 18
     }
   },
   {
@@ -406,19 +406,19 @@
     "url": "https://www.prexcard.com/api/",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/uy.png",
     "slug": "api-prex-uruguay",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 122,
-    "timeWeek": 146,
-    "timeMonth": 170,
-    "timeYear": 159,
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 155,
+    "timeDay": 213,
+    "timeWeek": 166,
+    "timeMonth": 174,
+    "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-09-06": 17
+      "2023-09-06": 33
     }
   }
 ]
