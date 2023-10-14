@@ -327,11 +327,11 @@
     "url": "https://api.prex.com.pe/",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/pe.png",
     "slug": "api-prex-peru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 666,
     "timeDay": 453,
@@ -339,7 +339,7 @@
     "timeMonth": 472,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2023-10-14": 5,
+      "2023-10-14": 0,
       "2023-06-02": 27,
       "2023-03-07": 31
     }
