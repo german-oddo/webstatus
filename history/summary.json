@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 309,
-    "timeDay": 401,
-    "timeWeek": 332,
-    "timeMonth": 274,
-    "timeYear": 289,
+    "timeDay": 339,
+    "timeWeek": 331,
+    "timeMonth": 277,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2022-12-05": 34
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 361,
-    "timeDay": 321,
-    "timeWeek": 241,
-    "timeMonth": 253,
+    "timeDay": 207,
+    "timeWeek": 226,
+    "timeMonth": 252,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2023-03-06": 46,
@@ -46,16 +46,16 @@
     "icon": "https://www.banderas-mundo.es/data/flags/h80/cl.png",
     "slug": "prex-chile",
     "status": "up",
-    "uptime": "23.36%",
+    "uptime": "23.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.64%",
-    "time": 489,
-    "timeDay": 567,
-    "timeWeek": 476,
+    "uptimeYear": "40.91%",
+    "time": 488,
+    "timeDay": 296,
+    "timeWeek": 459,
     "timeMonth": 491,
-    "timeYear": 489,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2023-06-12": 1031,
       "2023-06-11": 1440,
@@ -271,8 +271,7 @@
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
-      "2022-11-10": 1440,
-      "2022-11-09": 1440
+      "2022-11-10": 1440
     }
   },
   {
@@ -286,11 +285,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 708,
-    "timeDay": 886,
-    "timeWeek": 816,
-    "timeMonth": 759,
-    "timeYear": 764,
+    "time": 709,
+    "timeDay": 524,
+    "timeWeek": 787,
+    "timeMonth": 747,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2023-06-12": 42,
       "2023-03-07": 31
@@ -308,10 +307,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 663,
-    "timeDay": 504,
-    "timeWeek": 421,
-    "timeMonth": 458,
-    "timeYear": 668,
+    "timeDay": 315,
+    "timeWeek": 404,
+    "timeMonth": 456,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2023-10-14": 16,
       "2023-06-02": 27,
@@ -330,9 +329,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 211,
-    "timeWeek": 231,
-    "timeMonth": 237,
+    "timeDay": 294,
+    "timeWeek": 240,
+    "timeMonth": 239,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2023-09-06": 18
@@ -350,8 +349,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 160,
-    "timeDay": 107,
-    "timeWeek": 137,
+    "timeDay": 156,
+    "timeWeek": 139,
     "timeMonth": 152,
     "timeYear": 157,
     "dailyMinutesDown": {
