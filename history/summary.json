@@ -22,9 +22,9 @@
     "url": "https://api.prexcard.com.ar/",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/ar.png",
     "slug": "api-prex-argentina",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,6 +34,7 @@
     "timeMonth": 301,
     "timeYear": 339,
     "dailyMinutesDown": {
+      "2023-12-09": 0,
       "2023-03-06": 46,
       "2023-02-06": 18
     }
@@ -44,11 +45,11 @@
     "icon": "https://www.banderas-mundo.es/data/flags/h80/cl.png",
     "slug": "prex-chile",
     "status": "up",
-    "uptime": "26.92%",
+    "uptime": "26.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.13%",
+    "uptimeYear": "49.16%",
     "time": 473,
     "timeDay": 330,
     "timeWeek": 445,
