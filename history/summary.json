@@ -4,19 +4,19 @@
     "url": "https://www.prexcard.com.ar",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/ar.png",
     "slug": "prex-argentina",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 287,
-    "timeWeek": 289,
-    "timeMonth": 290,
+    "timeDay": 249,
+    "timeWeek": 279,
+    "timeMonth": 288,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2023-12-09": 1
+      "2023-12-09": 5
     }
   },
   {
