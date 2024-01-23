@@ -45,11 +45,11 @@
     "icon": "https://www.banderas-mundo.es/data/flags/h80/cl.png",
     "slug": "prex-chile",
     "status": "up",
-    "uptime": "31.54%",
+    "uptime": "31.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "61.45%",
+    "uptimeYear": "61.46%",
     "time": 478,
     "timeDay": 337,
     "timeWeek": 333,
@@ -195,8 +195,7 @@
       "2023-01-27": 1440,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
-      "2023-01-24": 1440,
-      "2023-01-23": 1440
+      "2023-01-24": 1440
     }
   },
   {
@@ -206,17 +205,16 @@
     "slug": "prex-peru",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 726,
     "timeDay": 765,
     "timeWeek": 689,
     "timeMonth": 753,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2024-01-22": 7,
       "2023-06-12": 42,
       "2023-03-07": 31
     }
