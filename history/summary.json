@@ -43,7 +43,7 @@
     "icon": "https://www.banderas-mundo.es/data/flags/h80/cl.png",
     "slug": "prex-chile",
     "status": "up",
-    "uptime": "50.98%",
+    "uptime": "51.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -109,18 +109,19 @@
     "url": "https://www.prexcard.com",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/uy.png",
     "slug": "prex-uruguay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 501,
-    "timeWeek": 299,
-    "timeMonth": 278,
+    "timeDay": 342,
+    "timeWeek": 285,
+    "timeMonth": 275,
     "timeYear": 259,
     "dailyMinutesDown": {
+      "2024-10-31": 0,
       "2024-03-15": 20
     }
   },
@@ -134,12 +135,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 156,
     "timeDay": 141,
     "timeWeek": 164,
     "timeMonth": 173,
-    "timeYear": 156,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2024-03-15": 20
     }
