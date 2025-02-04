@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 422,
-    "timeDay": 518,
-    "timeWeek": 610,
-    "timeMonth": 618,
+    "timeDay": 528,
+    "timeWeek": 603,
+    "timeMonth": 616,
     "timeYear": 466,
     "dailyMinutesDown": {
       "2024-11-22": 23
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 276,
-    "timeWeek": 254,
-    "timeMonth": 322,
+    "timeDay": 321,
+    "timeWeek": 270,
+    "timeMonth": 324,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2024-11-22": 23
@@ -45,16 +45,16 @@
     "icon": "https://www.banderas-mundo.es/data/flags/h80/cl.png",
     "slug": "prex-chile",
     "status": "up",
-    "uptime": "55.26%",
+    "uptime": "55.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 551,
-    "timeDay": 742,
-    "timeWeek": 752,
-    "timeMonth": 731,
-    "timeYear": 585,
+    "time": 552,
+    "timeDay": 699,
+    "timeWeek": 753,
+    "timeMonth": 720,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2024-03-26": 97
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 820,
-    "timeDay": 699,
-    "timeWeek": 731,
-    "timeMonth": 843,
-    "timeYear": 833,
+    "time": 821,
+    "timeDay": 1049,
+    "timeWeek": 793,
+    "timeMonth": 841,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2024-10-24": 16,
       "2024-10-07": 19,
@@ -98,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 445,
-    "timeDay": 426,
-    "timeWeek": 709,
-    "timeMonth": 543,
+    "timeDay": 431,
+    "timeWeek": 720,
+    "timeMonth": 544,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2024-03-11": 297
@@ -118,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 186,
-    "timeWeek": 278,
-    "timeMonth": 239,
+    "timeDay": 273,
+    "timeWeek": 277,
+    "timeMonth": 241,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2024-03-15": 20
@@ -138,10 +138,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 130,
-    "timeWeek": 139,
-    "timeMonth": 146,
-    "timeYear": 158,
+    "timeDay": 145,
+    "timeWeek": 140,
+    "timeMonth": 147,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2024-03-15": 20
     }
