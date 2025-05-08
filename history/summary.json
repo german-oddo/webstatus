@@ -46,7 +46,7 @@
     "icon": "https://www.banderas-mundo.es/data/flags/h80/cl.png",
     "slug": "prex-chile",
     "status": "up",
-    "uptime": "58.82%",
+    "uptime": "58.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -105,35 +105,39 @@
     "url": "https://www.prexcard.com",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/uy.png",
     "slug": "prex-uruguay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 251,
-    "timeWeek": 275,
-    "timeMonth": 257,
+    "timeDay": 198,
+    "timeWeek": 259,
+    "timeMonth": 254,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-08": 0
+    }
   },
   {
     "name": "API Prex-Uruguay",
     "url": "https://www.prexcard.com/api/",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/uy.png",
     "slug": "api-prex-uruguay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 126,
-    "timeWeek": 165,
-    "timeMonth": 147,
-    "timeYear": 155,
-    "dailyMinutesDown": {}
+    "timeDay": 73,
+    "timeWeek": 147,
+    "timeMonth": 142,
+    "timeYear": 154,
+    "dailyMinutesDown": {
+      "2025-05-08": 0
+    }
   }
 ]
