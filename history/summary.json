@@ -45,18 +45,20 @@
     "url": "https://prexcard.cl/",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/cl.png",
     "slug": "prex-chile",
-    "status": "up",
-    "uptime": "58.99%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "59.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 790,
-    "timeWeek": 804,
-    "timeMonth": 838,
-    "timeYear": 674,
-    "dailyMinutesDown": {}
+    "time": 620,
+    "timeDay": 559,
+    "timeWeek": 744,
+    "timeMonth": 822,
+    "timeYear": 673,
+    "dailyMinutesDown": {
+      "2025-05-13": 0
+    }
   },
   {
     "name": "Prex-Perú",
