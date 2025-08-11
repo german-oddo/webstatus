@@ -86,19 +86,19 @@
     "url": "https://api.prex.com.pe/",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/pe.png",
     "slug": "api-prex-peru",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 465,
-    "timeWeek": 470,
-    "timeMonth": 504,
+    "time": 468,
+    "timeDay": 546,
+    "timeWeek": 489,
+    "timeMonth": 507,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2025-08-11": 0
+      "2025-08-11": 20
     }
   },
   {
