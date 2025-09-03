@@ -65,9 +65,9 @@
     "url": "https://www.prex.com.pe",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/pe.png",
     "slug": "prex-peru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -77,6 +77,7 @@
     "timeMonth": 752,
     "timeYear": 860,
     "dailyMinutesDown": {
+      "2025-09-03": 0,
       "2024-10-24": 16,
       "2024-10-07": 19
     }
@@ -86,9 +87,9 @@
     "url": "https://api.prex.com.pe/",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/pe.png",
     "slug": "api-prex-peru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
@@ -98,6 +99,7 @@
     "timeMonth": 1045,
     "timeYear": 536,
     "dailyMinutesDown": {
+      "2025-09-03": 0,
       "2025-08-29": 21,
       "2025-08-11": 20
     }
