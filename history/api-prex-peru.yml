@@ -1,7 +1,7 @@
 url: https://api.prex.com.pe/
-status: down
-code: 500
-responseTime: 118
-lastUpdated: 2025-11-18T11:56:46.722Z
+status: up
+code: 200
+responseTime: 465
+lastUpdated: 2025-11-18T12:28:19.268Z
 startTime: 2022-02-11T18:07:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
