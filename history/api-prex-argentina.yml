@@ -1,7 +1,7 @@
 url: https://api.prexcard.com.ar/
-status: down
-code: 500
-responseTime: 122
-lastUpdated: 2025-11-18T11:38:41.616Z
+status: up
+code: 200
+responseTime: 391
+lastUpdated: 2025-11-18T13:06:43.094Z
 startTime: 2022-02-11T18:03:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
