@@ -47,7 +47,7 @@
     "icon": "https://www.banderas-mundo.es/data/flags/h80/cl.png",
     "slug": "prex-chile",
     "status": "up",
-    "uptime": "64.80%",
+    "uptime": "64.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.48%",
@@ -69,9 +69,9 @@
     "url": "https://www.prex.com.pe",
     "icon": "https://www.banderas-mundo.es/data/flags/h80/pe.png",
     "slug": "prex-peru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.95%",
@@ -81,6 +81,7 @@
     "timeMonth": 807,
     "timeYear": 841,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-11-18": 171,
       "2025-10-31": 67,
       "2025-09-03": 45
